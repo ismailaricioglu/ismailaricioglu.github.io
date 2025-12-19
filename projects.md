@@ -3,7 +3,7 @@ layout: default
 title: "Projeler"
 ---
 
-[← Ana Sayfa](index.html) · [Projeler](projects.html) · [İletişim](contact.html)
+[← Ana Sayfa](index.html) · [Hakkında](about.html) · [İletişim](contact.html)
 
 ---
 # Projeler
