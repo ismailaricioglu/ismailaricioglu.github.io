@@ -3,9 +3,6 @@ layout: default
 title: "Projeler"
 ---
 
-[← Ana Sayfa](index.html) · [Hakkında](about.html) · [İletişim](contact.html)
-
----
 # Projeler
 
 Aşağıda öne çıkan ve gerçek problem çözen projelerim yer alıyor.
@@ -40,3 +37,7 @@ Aşağıda öne çıkan ve gerçek problem çözen projelerim yer alıyor.
 
 > Kod kadar **doküman** da üretirim.  
 > Çünkü sistemler insanlar değişse bile yaşamalı.
+
+---
+[← Ana Sayfa](index.html)
+---
