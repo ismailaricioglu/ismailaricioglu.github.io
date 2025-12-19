@@ -3,6 +3,9 @@ layout: default
 title: "Projeler"
 ---
 
+[← Ana Sayfa](index.html) · [Projeler](projects.html) · [İletişim](contact.html)
+
+---
 # Projeler
 
 Aşağıda öne çıkan ve gerçek problem çözen projelerim yer alıyor.
