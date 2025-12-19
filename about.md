@@ -3,6 +3,9 @@ layout: default
 title: "Hakkımda"
 ---
 
+[← Ana Sayfa](index.html) · [Projeler](projects.html) · [İletişim](contact.html)
+
+---
 # Hakkımda
 
 Yazılıma erken yaşta başladım.  
