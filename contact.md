@@ -3,7 +3,7 @@ layout: default
 title: "İletişim"
 ---
 
-[← Ana Sayfa](index.html) · [Projeler](projects.html) · [İletişim](contact.html)
+[← Ana Sayfa](index.html) · [Projeler](projects.html) · [Hakkında](about.html)
 
 ---
 # İletişim
