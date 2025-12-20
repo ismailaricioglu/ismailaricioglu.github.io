@@ -12,18 +12,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 ---
 
-<details markdown="1">
-<summary><strong>Projeler (detay)</strong></summary>
-
-## Proje A
-  Açıklama…
-
-  ## Proje B
-  Açıklama…
-
-</details>
-
-<details markdown="1" id="hakkimda">
+<details open markdown="1" id="hakkimda">
 <summary><strong>Hakkımda</strong></summary>
 
 > Notlar //
