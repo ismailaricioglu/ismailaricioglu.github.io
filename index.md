@@ -23,10 +23,8 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 </details>
 
-<details markdown="1">
+<details markdown="1" id="hakkimda">
 <summary><strong>Hakkımda</strong></summary>
-  
-## Hakkımda
 
 Yazılıma erken yaşta başladım.  
 Bugüne kadar birçok projede **analiz, geliştirme, test ve teslim** süreçlerini tek başıma yönettim.
