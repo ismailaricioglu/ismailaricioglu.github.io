@@ -11,21 +11,20 @@ Ben **Kardeşim**.
 Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kurarım.
 
 ---
-<nav class="toc">
 ## İçindekiler
+<nav class="toc">
 
 1. [Hakkımda](#1-hakkımda)
 2. [Teknik Yetkinlikler](#2-teknik-yetkinlikler)
-   1. [Diller](#21-diller)
-   2. [Backend & Sistem](#22-backend--sistem)
-   3. [Mobil & Ürün](#23-mobil--ürün)
+   - [Diller](#21-diller)
+   - [Backend & Sistem](#22-backend--sistem)
+   - [Mobil & Ürün](#23-mobil--ürün)
 3. [Projeler](#3-projeler)
-   1. [Caty Rush](#31-caty-rush)
-   2. [Hava Durumu Uygulaması](#32-hava-durumu-uygulaması)
-   3. [Sistem & Dokümantasyon](#33-sistem--dokümantasyon)
 4. [Yaklaşımım](#4-yaklaşımım)
 5. [İletişim](#5-i̇letişim)
+
 </nav>
+
 ---
 
 ## 1. Hakkımda
