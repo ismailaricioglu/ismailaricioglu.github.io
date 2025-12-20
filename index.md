@@ -24,7 +24,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
    2. [Hava Durumu Uygulaması](#32-hava-durumu-uygulaması)
    3. [Sistem & Dokümantasyon](#33-sistem--dokümantasyon)
 4. [Yaklaşımım](#4-yaklaşımım)
-5. [İletişim](#5-iletişim)
+5. [İletişim](#5-i̇letişim)
 
 ---
 
