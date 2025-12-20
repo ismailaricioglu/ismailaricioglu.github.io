@@ -13,6 +13,18 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 ---
 
 <details>
+  <summary><strong>Projeler (detay)</strong></summary>
+
+  ### Proje A
+  Açıklama…
+
+  ### Proje B
+  Açıklama…
+
+</details>
+
+
+<details>
 <summary><strong>Hakkımda</strong></summary>
   
 ## Hakkımda
