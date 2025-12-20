@@ -35,10 +35,10 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 </details>
 
-<details markdown="1">
+<details markdown="1" id="yetkinlik">
 <summary><strong>Teknik Yetkinlik</strong></summary>
   
-## Teknik Yetkinlikler
+> Notlar //
 
 ### Diller
 - **Diller:** Java, C#, Python, JavaScript, Dart  
@@ -53,10 +53,10 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 </details>
 
-<details markdown="1">
+<details markdown="1" id="proje">
 <summary><strong>Proje</strong></summary>
-  
-## Projeler
+
+> Not //
 
 ### Caty Rush
 - Flutter Flame ile geliştirilmiş match-3 mobil oyun
@@ -76,10 +76,10 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 </details>
 
-<details markdown="1">
+<details markdown="1" id="yaklasim">
 <summary><strong>Yaklaşım</strong></summary>
   
-## Yaklaşımım
+> Notlar //
 
 > “Doğru soruyu sormadan yazılan kod, çöptür.”
 
@@ -92,10 +92,10 @@ ama ileriye bakmayan sistemi de ciddiye almam.
 
 </details>
 
-<details markdown="1">
+<details markdown="1" id="iletisim">
 <summary><strong>İletişim</strong></summary>
   
-## İletişim
+> Notlar //
 
 Profesyonel iş birlikleri için:
 
