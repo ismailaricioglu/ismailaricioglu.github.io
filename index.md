@@ -14,15 +14,21 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 ## İçindekiler
 
-- [Hakkımda](#hakkımda)
-- [Teknik Yetkinlikler](#teknik-yetkinlikler)
-- [Projeler](#projeler)
-- [Yaklaşımım](#yaklaşımım)
-- [İletişim](#i̇letişim)
+1. [Hakkımda](#1-hakkımda)
+2. [Teknik Yetkinlikler](#2-teknik-yetkinlikler)
+   1. [Diller](#21-diller)
+   2. [Backend & Sistem](#22-backend--sistem)
+   3. [Mobil & Ürün](#23-mobil--ürün)
+3. [Projeler](#3-projeler)
+   1. [Caty Rush](#31-caty-rush)
+   2. [Hava Durumu Uygulaması](#32-hava-durumu-uygulaması)
+   3. [Sistem & Dokümantasyon](#33-sistem--dokümantasyon)
+4. [Yaklaşımım](#4-yaklaşımım)
+5. [İletişim](#5-iletişim)
 
 ---
 
-## Hakkımda
+## 1. Hakkımda
 
 Yazılıma erken yaşta başladım.  
 Bugüne kadar birçok projede **analiz, geliştirme, test ve teslim** süreçlerini tek başıma yönettim.
@@ -31,37 +37,42 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 ---
 
-## Teknik Yetkinlikler
+## 2. Teknik Yetkinlikler
 
+### 2.1 Diller
 - **Diller:** Java, C#, Python, JavaScript, Dart  
+
+### 2.2 Backend & Sistem
 - **Backend:** Spring Boot, RESTful API, Microservices  
+
+### 2.3 Mobil & Ürün
 - **Mobil:** Flutter, Flutter Flame  
 - **DevOps:** Docker, GitHub  
 - **Yaklaşım:** SOLID, Clean Code, MVC
 
 ---
 
-## Projeler
+## 3. Projeler
 
-### 🎮 Caty Rush
+### 3.1 Caty Rush
 - Flutter Flame ile geliştirilmiş match-3 mobil oyun
 - MVP tamamlandı
 - Kullanıcı kitlesi oluşturuldu
 - Unity tabanlı v2 ile gelir hedefleniyor
 
-### 🌦 Hava Durumu Uygulaması
+### 3.2 Hava Durumu Uygulaması
 - Flutter + OpenWeatherMap API
 - Türkiye 81 il destekli
 - Hafif, hızlı ve sade arayüz
 
-### 🧩 Sistem & Dokümantasyon
+### 3.3 Sistem & Dokümantasyon
 - Modüler sistem dokümantasyonu
 - RTM, Use Case, BPMN
 - Performans ve kapasite planlama
 
 ---
 
-## Yaklaşımım
+## 4. Yaklaşımım
 
 > “Doğru soruyu sormadan yazılan kod, çöptür.”
 
@@ -74,7 +85,8 @@ ama ileriye bakmayan sistemi de ciddiye almam.
 
 ---
 
-## İletişim
+
+## 5. İletişim
 
 Profesyonel iş birlikleri için:
 
