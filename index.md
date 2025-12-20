@@ -3,6 +3,23 @@ layout: default
 title: "Kardeşim | Yazılım Portföyü"
 description: "Sistem odaklı yazılım geliştirme, projeler ve mühendislik yaklaşımı"
 ---
+## İçindekiler
+{:toc}
+
+## Hakkımda
+...
+
+## Projeler
+...
+
+## Deneyim
+...
+
+## Bağlantılar
+...
+
+## İletişim
+...
 
 # Merhaba 👋  
 Ben **Kardeşim**.
