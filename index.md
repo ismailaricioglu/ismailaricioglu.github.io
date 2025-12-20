@@ -18,7 +18,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 - [Teknik Yetkinlikler](#teknik-yetkinlikler)
 - [Projeler](#projeler)
 - [Yaklaşımım](#yaklaşımım)
-- [İletişim](#ıletişim)
+- [İletişim](#i̇letişim)
 
 ---
 
