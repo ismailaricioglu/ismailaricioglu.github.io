@@ -12,7 +12,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 ---
 
-<details>
+<details markdown="1">
   <summary><strong>Projeler (detay)</strong></summary>
 
   ### Proje A
@@ -24,8 +24,8 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 </details>
 
 
-<details>
-<summary><strong>Hakkımda</strong></summary>
+<details markdown="1">
+  <summary><strong>Hakkımda</strong></summary>
   
 ## Hakkımda
 
