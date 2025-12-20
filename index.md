@@ -11,7 +11,7 @@ Ben **Kardeşim**.
 Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kurarım.
 
 ---
-
+<nav class="toc">
 ## İçindekiler
 
 1. [Hakkımda](#1-hakkımda)
@@ -25,7 +25,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
    3. [Sistem & Dokümantasyon](#33-sistem--dokümantasyon)
 4. [Yaklaşımım](#4-yaklaşımım)
 5. [İletişim](#5-i̇letişim)
-
+</nav>
 ---
 
 ## 1. Hakkımda
