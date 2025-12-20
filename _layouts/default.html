@@ -20,6 +20,15 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <nav id="toc">
+          <strong>İçindekiler</strong>
+          <ul>
+            <li><a href="#about">Hakkımda</a></li>
+            <li><a href="#projects">Projeler</a></li>
+            <li><a href="#experience">Deneyim</a></li>
+            <li><a href="#contact">İletişim</a></li>
+          </ul>
+        </nav>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
