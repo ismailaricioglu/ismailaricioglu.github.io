@@ -1,0 +1,27 @@
+/* =========================
+   TOC – Sticky (Desktop)
+   ========================= */
+
+.toc {
+  position: sticky;
+  top: 1.5rem;          /* header ile çakışmaması için */
+  align-self: flex-start;
+}
+
+/* Parent container sticky'yi bozmasın */
+.page-content,
+.main-content,
+.wrapper {
+  overflow: visible;
+}
+
+/* =========================
+   Mobile: Sticky KAPALI
+   ========================= */
+
+@media (max-width: 768px) {
+  .toc {
+    position: static;
+    top: auto;
+  }
+}
