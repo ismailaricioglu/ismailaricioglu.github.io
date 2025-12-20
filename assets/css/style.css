@@ -1,3 +1,46 @@
+body {
+  display: flex;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+.sidebar {
+  width: 240px;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  padding: 24px;
+  border-right: 1px solid #eee;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 12px 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #444;
+}
+
+.sidebar a:hover {
+  color: #000;
+}
+
+.content {
+  padding: 40px;
+  max-width: 900px;
+}
+
+section {
+  margin-bottom: 80px;
+}
+
+/* 📱 Mobil */
 @media (max-width: 768px) {
   body {
     flex-direction: column;
