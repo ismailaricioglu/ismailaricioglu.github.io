@@ -26,6 +26,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 <details markdown="1" id="hakkimda">
 <summary><strong>Hakkımda</strong></summary>
 
+>
 
 Yazılıma erken yaşta başladım.  
 Bugüne kadar birçok projede **analiz, geliştirme, test ve teslim** süreçlerini tek başıma yönettim.
