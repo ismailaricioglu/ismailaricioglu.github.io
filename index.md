@@ -12,6 +12,9 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 ---
 
+<details>
+<summary><strong>Hakkımda</strong></summary>
+  
 ## Hakkımda
 
 Yazılıma erken yaşta başladım.  
@@ -20,7 +23,11 @@ Bugüne kadar birçok projede **analiz, geliştirme, test ve teslim** süreçler
 Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım.
 
 ---
+</details>
 
+<details>
+<summary><strong>Teknik Yetkinlik</strong></summary>
+  
 ## Teknik Yetkinlikler
 
 ### Diller
@@ -35,7 +42,11 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 - **Yaklaşım:** SOLID, Clean Code, MVC
 
 ---
+</details>
 
+<details>
+<summary><strong>Proje</strong></summary>
+  
 ## Projeler
 
 ### Caty Rush
@@ -55,7 +66,11 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 - Performans ve kapasite planlama
 
 ---
+</details>
 
+<details>
+<summary><strong>Yaklaşım</strong></summary>
+  
 ## Yaklaşımım
 
 > “Doğru soruyu sormadan yazılan kod, çöptür.”
@@ -68,8 +83,11 @@ Geleneksel mühendislik prensiplerine sadığım
 ama ileriye bakmayan sistemi de ciddiye almam.
 
 ---
+</details>
 
-
+<details>
+<summary><strong>İletişim</strong></summary>
+  
 ## İletişim
 
 Profesyonel iş birlikleri için:
@@ -79,5 +97,6 @@ Profesyonel iş birlikleri için:
 - 🧑‍💻 **GitHub:** https://github.com/kullanici
 
 ---
+</details>
 
 ⬆️ [Başa Dön](#merhaba-)
