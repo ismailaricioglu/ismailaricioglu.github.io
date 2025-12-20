@@ -23,7 +23,6 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 
 </details>
 
-
 <details markdown="1">
   <summary><strong>Hakkımda</strong></summary>
   
@@ -34,10 +33,9 @@ Bugüne kadar birçok projede **analiz, geliştirme, test ve teslim** süreçler
 
 Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım.
 
----
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Teknik Yetkinlik</strong></summary>
   
 ## Teknik Yetkinlikler
@@ -53,10 +51,9 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 - **DevOps:** Docker, GitHub  
 - **Yaklaşım:** SOLID, Clean Code, MVC
 
----
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Proje</strong></summary>
   
 ## Projeler
@@ -77,10 +74,9 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 - RTM, Use Case, BPMN
 - Performans ve kapasite planlama
 
----
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Yaklaşım</strong></summary>
   
 ## Yaklaşımım
@@ -94,10 +90,9 @@ En son kod.
 Geleneksel mühendislik prensiplerine sadığım  
 ama ileriye bakmayan sistemi de ciddiye almam.
 
----
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>İletişim</strong></summary>
   
 ## İletişim
@@ -108,7 +103,6 @@ Profesyonel iş birlikleri için:
 - 💼 **LinkedIn:** https://linkedin.com/in/kullanici  
 - 🧑‍💻 **GitHub:** https://github.com/kullanici
 
----
 </details>
 
 ⬆️ [Başa Dön](#merhaba-)
