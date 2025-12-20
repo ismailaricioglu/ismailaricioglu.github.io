@@ -15,10 +15,10 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 <details markdown="1">
   <summary><strong>Projeler (detay)</strong></summary>
 
-  ### Proje A
+## Proje A
   Açıklama…
 
-  ### Proje B
+  ## Proje B
   Açıklama…
 
 </details>
