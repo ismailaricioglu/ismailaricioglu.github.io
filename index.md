@@ -43,7 +43,7 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 </details>
 
 <details markdown="1" id="proje">
-<summary><strong>Proje</strong></summary>
+<summary><strong><span class="subtitle">Projeler</span></strong></summary>
 
 > Not //
 
@@ -66,7 +66,7 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 </details>
 
 <details markdown="1" id="yaklasim">
-<summary><strong>Yaklaşım</strong></summary>
+<summary><strong><span class="subtitle">Yaklaşım</span></strong></summary>
   
 > Notlar //
 
@@ -82,7 +82,7 @@ ama ileriye bakmayan sistemi de ciddiye almam.
 </details>
 
 <details markdown="1" id="iletisim">
-<summary><strong>İletişim</strong></summary>
+<summary><strong><span class="subtitle">İletişim</span></strong></summary>
   
 > Notlar //
 
