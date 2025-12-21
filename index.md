@@ -24,6 +24,8 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 </details>
 
+---
+
 <details markdown="1" id="yetkinlik">
 <summary><strong><span class="subtitle">Teknik Yetkinlik</span></strong></summary>
   
@@ -41,6 +43,8 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 - **Yaklaşım:** SOLID, Clean Code, MVC
 
 </details>
+
+---
 
 <details markdown="1" id="proje">
 <summary><strong><span class="subtitle">Projeler</span></strong></summary>
@@ -65,6 +69,8 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 
 </details>
 
+---
+
 <details markdown="1" id="yaklasim">
 <summary><strong><span class="subtitle">Yaklaşım</span></strong></summary>
   
@@ -80,6 +86,8 @@ Geleneksel mühendislik prensiplerine sadığım
 ama ileriye bakmayan sistemi de ciddiye almam.
 
 </details>
+
+---
 
 <details markdown="1" id="iletisim">
 <summary><strong><span class="subtitle">İletişim</span></strong></summary>
