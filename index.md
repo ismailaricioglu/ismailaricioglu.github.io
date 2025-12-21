@@ -25,7 +25,7 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 </details>
 
 <details markdown="1" id="yetkinlik">
-<summary><H3>Teknik Yetkinlik</H3></summary>
+<summary><strong>Teknik Yetkinlik</strong></summary>
   
 > Notlar //
 
