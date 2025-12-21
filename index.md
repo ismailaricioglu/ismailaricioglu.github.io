@@ -13,7 +13,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 ---
 
 <details open markdown="1" id="hakkimda">
-<H3>Hakkımda</H3>
+<summary><strong>Hakkımda</strong></summary>
 
 > Notlar //
 
@@ -25,7 +25,7 @@ Takım çalışmasını bilirim ama **bağımsız üretim** benim doğal alanım
 </details>
 
 <details markdown="1" id="yetkinlik">
-<summary><H2>Teknik Yetkinlik</H2></summary>
+<summary><H3>Teknik Yetkinlik</H3></summary>
   
 > Notlar //
 
