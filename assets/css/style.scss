@@ -1,6 +1,11 @@
-details summary .subtitle {
-  font-size: 1.5rem;   /* H2 boyutu */
-  font-weight: 600;
-  line-height: 1.4;
-}
+---
+---
 
+@import "{{ site.theme }}";
+
+/* ===== SENİN EKLEMELERİN ===== */
+
+details summary .subtitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
