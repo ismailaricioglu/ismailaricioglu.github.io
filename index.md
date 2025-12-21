@@ -102,4 +102,6 @@ Profesyonel iş birlikleri için:
 
 </details>
 
+---
+
 ⬆️ [Başa Dön](#merhaba-)
