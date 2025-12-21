@@ -30,3 +30,7 @@
   margin-top: 1rem;
 }
 
+details > :not(summary) {
+  font-size: 1.25rem;   /* h3'e çok yakın */
+  line-height: 1.6;
+}
