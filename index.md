@@ -13,7 +13,7 @@ Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kura
 ---
 
 <details open markdown="1" id="hakkimda">
-<summary><strong>Hakkımda</strong></summary>
+<summary><strong><span class="subtitle">Hakkımda</span></strong></summary>
 
 > Notlar //
 
