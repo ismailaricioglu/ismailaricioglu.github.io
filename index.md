@@ -53,17 +53,17 @@ tercihlerin uzun vadeli sonuçlarını gözetirim.
 
 <details markdown="1" id="secilmis_projeler">
 <summary><strong><span class="subtitle">Seçilmiş Projeler</span></strong></summary>
-
+<br>
 ### Proje Adı 1
-Tek cümlelik problem özeti.  
+Kısa ve net bir problem tanımı. Ne çözüldü, neden önemliydi.  
 [Detaylara git ↓](#proje-adi-1)
 
 ### Proje Adı 2
-Tek cümlelik problem özeti.  
+Teknik veya sistemsel açıdan ayırt edici olan problem.  
 [Detaylara git ↓](#proje-adi-2)
 
 ### Proje Adı 3
-Tek cümlelik problem özeti.  
+Algoritmik veya mimari karar içeren çalışma.  
 [Detaylara git ↓](#proje-adi-3)
 
 </details>
@@ -72,7 +72,7 @@ Tek cümlelik problem özeti.
 
 <details markdown="1" id="proje_adi_1">
 <summary><strong><span class="subtitle">Proje Adı 1</span></strong></summary>
-
+<br>
 <a name="proje-adi-1"></a>
 
 ### Problem Tanımı
