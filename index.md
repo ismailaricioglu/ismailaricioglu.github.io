@@ -54,6 +54,7 @@ tercihlerin uzun vadeli sonuçlarını gözetirim.
 <details markdown="1" id="secilmis_projeler">
 <summary><strong><span class="subtitle">Seçilmiş Projeler</span></strong></summary>
 <br>
+
 ### Proje Adı 1
 Kısa ve net bir problem tanımı. Ne çözüldü, neden önemliydi.  
 [Detaylara git ↓](#proje-adi-1)
