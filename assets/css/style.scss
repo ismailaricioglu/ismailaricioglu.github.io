@@ -14,12 +14,6 @@ details summary .subtitle2 {
 }
 
 @media (max-width: 768px) {
-    header {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
     header h1 {
         margin: 0;
         text-align: center;
