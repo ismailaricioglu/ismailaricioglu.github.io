@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Kardeşim | Yazılım Portföyü"
-description: "Sistem odaklı yazılım geliştirme, projeler ve mühendislik yaklaşımı"
+title: "İsmail ARICIOĞLU | Portfolio"
+description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
 # Merhaba 👋  
