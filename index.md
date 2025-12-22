@@ -72,7 +72,7 @@ Algoritmik veya mimari karar içeren çalışma.
 ---
 
 <details markdown="1" id="proje_adi_1">
-<summary><strong><span class="subtitle">Proje Adı 1</span></strong></summary>
+<summary><strong><span class="subtitle2">Proje Adı 1</span></strong></summary>
 <a name="proje-adi-1"></a>
 <br>
   
@@ -105,7 +105,7 @@ teknik veya metodolojik dersler.
 ---
 
 <details markdown="1" id="proje_adi_2">
-<summary><strong><span class="subtitle">Proje Adı 2</span></strong></summary>
+<summary><strong><span class="subtitle2">Proje Adı 2</span></strong></summary>
 <a name="proje-adi-2"></a>
 <br>
   
@@ -138,7 +138,7 @@ teknik veya metodolojik dersler.
 ---
 
 <details markdown="1" id="proje_adi_3">
-<summary><strong><span class="subtitle">Proje Adı 3</span></strong></summary>
+<summary><strong><span class="subtitle2">Proje Adı 3</span></strong></summary>
 <a name="proje-adi-3"></a>
 <br>
   
