@@ -13,6 +13,15 @@ details summary .subtitle2 {
   font-size: 1.25rem;
 }
 
-header h1 {
-    text-align: center;
+@media (max-width: 768px) {
+    header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header h1 {
+        margin: 0;
+        text-align: center;
+    }
 }
