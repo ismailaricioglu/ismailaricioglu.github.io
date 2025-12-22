@@ -142,5 +142,3 @@ Doküman değil, yaklaşım anlatılır.
 </details>
 
 ---
-
-⬆️ [Başa Dön](#merhaba-)
