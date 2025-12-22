@@ -10,9 +10,115 @@ Merhaba, ben **İsmail ARICIOĞLU**
 Kısa ama iddialı bir yaklaşım cümlesi.
 Ne yaptığını değil, *nasıl düşündüğünü* söyleyen tek cümle.
 
+---
+
+## Profesyonel Yaklaşım
+
+- Problemi nasıl ele aldığın
+- Çözümü nasıl yapılandırdığın
+- Karar alırken neye dikkat ettiğin
+
+Kısa paragraflar. Netlik. Gürültü yok.
 
 ---
 
+## Yetkinlik Alanları
+
+### Backend Sistem Tasarımı
+Kısa açıklama.
+
+### Algoritmik Problem Çözme
+Kısa açıklama.
+
+### Dokümantasyon & İzlenebilirlik
+Kısa açıklama.
+
+### Sistemsel Düşünme
+Kısa açıklama.
+
+---
+
+## Seçilmiş Projeler
+
+### Proje Adı 1
+Tek cümlelik problem özeti.  
+[Detaylara git ↓](#proje-adi-1)
+
+### Proje Adı 2
+Tek cümlelik problem özeti.  
+[Detaylara git ↓](#proje-adi-2)
+
+### Proje Adı 3
+Tek cümlelik problem özeti.  
+[Detaylara git ↓](#proje-adi-3)
+
+---
+
+---
+
+## Proje Adı 1
+<a name="proje-adi-1"></a>
+
+### Problem Tanımı
+...
+
+### Kısıtlar & Varsayımlar
+...
+
+### Çözüm Yaklaşımı
+...
+
+### Mimari / Algoritmik Karar
+...
+
+### Alternatifler & Trade-off
+...
+
+### Sonuç & Öğrenilenler
+...
+
+---
+
+## Dokümantasyon Yaklaşımı
+
+- Use Case bakış açısı
+- Gereksinim – test izlenebilirliği
+- Algoritma tasarım tanımları
+
+Doküman değil, yaklaşım anlatılır.
+
+---
+
+## Teknik Derinlik
+
+### Ele Alınan Problem
+...
+
+### Alınan Karar
+...
+
+### Gerekçe
+...
+
+---
+
+## Çalışma Prensipleri
+
+- Kod kalitesi ve okunabilirlik
+- Test yaklaşımı
+- Takım içi iletişim
+- Sorumluluk alma
+
+---
+
+## Bağlantılar
+
+- GitHub
+- LinkedIn
+- Proje repoları
+- (Varsa) PDF portföy
+
+---
 <details open markdown="1" id="hakkimda">
 <summary><strong><span class="subtitle">Hakkımda</span></strong></summary>
 
