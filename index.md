@@ -14,7 +14,8 @@ yapılandıran bir yazılım geliştirici.
 
 <details open markdown="1" id="profesyonel_yaklasim">
 <summary><strong><span class="subtitle">Profesyonel Yaklaşım</span></strong></summary>
-  
+
+
 <p>Problemi ele alırken önce kapsamı ve kısıtları netleştiririm. Varsayımları açıkça
 tanımlar, çözülmesi gereken asıl problemi ayıklarım.</p>
 
