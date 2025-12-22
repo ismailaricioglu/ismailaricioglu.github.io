@@ -224,4 +224,6 @@ Doküman değil, yaklaşım anlatılır.
 
 ---
 
-[Sayfa başına git ↑](#sayfa_basi)
+<p style="text-align: right;">
+  <a href="#sayfa_basi">Sayfa başına git ↑</a>
+</p>
