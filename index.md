@@ -1,10 +1,9 @@
 ---
 layout: default
-#title: "İsmail ARICIOĞLU | Portfolio"
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
-# [İsmail ARICIOĞLU]
+Merhaba, ben **İsmail ARICIOĞLU**
 
 **[Profesyonel Rol / Odak Alanı]**
 
