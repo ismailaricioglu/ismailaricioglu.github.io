@@ -3,12 +3,12 @@ layout: default
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
-Merhaba, ben **İsmail ARICIOĞLU**
+# İsmail Arıcıoğlu
 
-**[Profesyonel Rol / Odak Alanı]**
+**Sistem ve Algoritma Odaklı Backend Geliştirici**
 
-Kısa ama iddialı bir yaklaşım cümlesi.
-Ne yaptığını değil, *nasıl düşündüğünü* söyleyen tek cümle.
+Problemi tanımlamadan kod yazmayan, çözümü mimari ve algoritmik gerekçelerle
+yapılandıran bir yazılım geliştirici.
 
 ---
 
