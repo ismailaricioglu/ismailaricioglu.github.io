@@ -3,7 +3,7 @@ layout: default
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
-# Merhaba, ben **İsmail ARICIOĞLU**
+Merhaba, ben **İsmail ARICIOĞLU**
 
 **[Profesyonel Rol / Odak Alanı]**
 
