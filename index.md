@@ -4,11 +4,13 @@ title: "İsmail ARICIOĞLU | Portfolio"
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
-# Merhaba 👋  
-Ben **Kardeşim**.
+# [İsmail ARICIOĞLU]
 
-20+ yıllık yazılım deneyimine sahip, otodidaktik bir yazılımcıyım.  
-Kod yazmaktan çok **problem çözer**, sade ve sürdürülebilir sistemler kurarım.
+**[Profesyonel Rol / Odak Alanı]**
+
+Kısa ama iddialı bir yaklaşım cümlesi.
+Ne yaptığını değil, *nasıl düşündüğünü* söyleyen tek cümle.
+
 
 ---
 
