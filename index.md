@@ -12,14 +12,17 @@ yapılandıran bir yazılım geliştirici.
 
 ---
 
-<details markdown="1" id="profesyonel_yaklasim">
+<details open markdown="1" id="profesyonel_yaklasim">
 <summary><strong><span class="subtitle">Profesyonel Yaklaşım</span></strong></summary>
 
-- Problemi nasıl ele aldığın
-- Çözümü nasıl yapılandırdığın
-- Karar alırken neye dikkat ettiğin
+Problemi ele alırken önce kapsamı ve kısıtları netleştiririm. Varsayımları açıkça
+tanımlar, çözülmesi gereken asıl problemi ayıklarım.
 
-Kısa paragraflar. Netlik. Gürültü yok.
+Çözümü doğrudan koda dökmek yerine, önce yapıyı kurarım. Algoritmik akışı ve
+sistem bileşenlerini netleştirdikten sonra uygulamaya geçerim.
+
+Her teknik kararın bir gerekçesi olması gerektiğine inanırım. Alternatifleri
+değerlendirir, seçilen çözümün sonuçlarını sahiplenirim.
 
 </details>
 
