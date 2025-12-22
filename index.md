@@ -73,9 +73,9 @@ Algoritmik veya mimari karar içeren çalışma.
 
 <details markdown="1" id="proje_adi_1">
 <summary><strong><span class="subtitle">Proje Adı 1</span></strong></summary>
-<br>
 <a name="proje-adi-1"></a>
-
+<br>
+  
 ### Problem Tanımı
 ...
 
