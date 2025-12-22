@@ -67,8 +67,6 @@ Teknik veya sistemsel açıdan ayırt edici olan problem.
 Algoritmik veya mimari karar içeren çalışma.  
 [Detaylara git ↓](#proje-adi-3)
 
-</details>
-
 ---
 
 <details markdown="1" id="proje_adi_1">
@@ -93,6 +91,62 @@ Algoritmik veya mimari karar içeren çalışma.
 
 ### Sonuç & Öğrenilenler
 ...
+
+</details>
+
+---
+
+<details markdown="1" id="proje_adi_2">
+<summary><strong><span class="subtitle">Proje Adı 2</span></strong></summary>
+<a name="proje-adi-2"></a>
+<br>
+  
+### Problem Tanımı
+...
+
+### Kısıtlar & Varsayımlar
+...
+
+### Çözüm Yaklaşımı
+...
+
+### Mimari / Algoritmik Karar
+...
+
+### Alternatifler & Trade-off
+...
+
+### Sonuç & Öğrenilenler
+...
+
+</details>
+
+---
+
+<details markdown="1" id="proje_adi_3">
+<summary><strong><span class="subtitle">Proje Adı 3</span></strong></summary>
+<a name="proje-adi-3"></a>
+<br>
+  
+### Problem Tanımı
+...
+
+### Kısıtlar & Varsayımlar
+...
+
+### Çözüm Yaklaşımı
+...
+
+### Mimari / Algoritmik Karar
+...
+
+### Alternatifler & Trade-off
+...
+
+### Sonuç & Öğrenilenler
+...
+
+</details>
 
 </details>
 
