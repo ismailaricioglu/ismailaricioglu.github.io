@@ -3,7 +3,6 @@ layout: default
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 <a name="sayfa_basi"></a>
-# İsmail Arıcıoğlu
 
 **Sistem ve Algoritma Odaklı Backend Geliştirici**
 
