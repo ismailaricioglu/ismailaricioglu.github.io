@@ -14,15 +14,17 @@ yapılandıran bir yazılım geliştirici.
 
 <details open markdown="1" id="profesyonel_yaklasim">
 <summary><strong><span class="subtitle">Profesyonel Yaklaşım</span></strong></summary>
+
 <br>
-Problemi ele alırken önce kapsamı ve kısıtları netleştiririm. Varsayımları açıkça
-tanımlar, çözülmesi gereken asıl problemi ayıklarım.
+  
+<p>Problemi ele alırken önce kapsamı ve kısıtları netleştiririm. Varsayımları açıkça
+tanımlar, çözülmesi gereken asıl problemi ayıklarım.</p>
 
-Çözümü doğrudan koda dökmek yerine, önce yapıyı kurarım. Algoritmik akışı ve
-sistem bileşenlerini netleştirdikten sonra uygulamaya geçerim.
+<p>Çözümü doğrudan koda dökmek yerine, önce yapıyı kurarım. Algoritmik akışı ve
+sistem bileşenlerini netleştirdikten sonra uygulamaya geçerim.</p>
 
-Her teknik kararın bir gerekçesi olması gerektiğine inanırım. Alternatifleri
-değerlendirir, seçilen çözümün sonuçlarını sahiplenirim.
+<p>Her teknik kararın bir gerekçesi olması gerektiğine inanırım. Alternatifleri
+değerlendirir, seçilen çözümün sonuçlarını sahiplenirim.</p>
 
 </details>
 
