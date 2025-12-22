@@ -12,7 +12,8 @@ Ne yaptığını değil, *nasıl düşündüğünü* söyleyen tek cümle.
 
 ---
 
-## Profesyonel Yaklaşım
+<details markdown="1" id="profesyonel_yaklasim">
+<summary><strong><span class="subtitle">Profesyonel Yaklaşım</span></strong></summary>
 
 - Problemi nasıl ele aldığın
 - Çözümü nasıl yapılandırdığın
@@ -20,9 +21,12 @@ Ne yaptığını değil, *nasıl düşündüğünü* söyleyen tek cümle.
 
 Kısa paragraflar. Netlik. Gürültü yok.
 
+</details>
+
 ---
 
-## Yetkinlik Alanları
+<details markdown="1" id="yetkinlik_alanlari">
+<summary><strong><span class="subtitle">Yetkinlik Alanları</span></strong></summary>
 
 ### Backend Sistem Tasarımı
 Kısa açıklama.
@@ -36,9 +40,12 @@ Kısa açıklama.
 ### Sistemsel Düşünme
 Kısa açıklama.
 
+</details>
+
 ---
 
-## Seçilmiş Projeler
+<details markdown="1" id="secilmis_projeler">
+<summary><strong><span class="subtitle">Seçilmiş Projeler</span></strong></summary>
 
 ### Proje Adı 1
 Tek cümlelik problem özeti.  
@@ -52,11 +59,13 @@ Tek cümlelik problem özeti.
 Tek cümlelik problem özeti.  
 [Detaylara git ↓](#proje-adi-3)
 
----
+</details>
 
 ---
 
-## Proje Adı 1
+<details markdown="1" id="proje_adi_1">
+<summary><strong><span class="subtitle">Proje Adı 1</span></strong></summary>
+
 <a name="proje-adi-1"></a>
 
 ### Problem Tanımı
@@ -77,9 +86,12 @@ Tek cümlelik problem özeti.
 ### Sonuç & Öğrenilenler
 ...
 
+</details>
+
 ---
 
-## Dokümantasyon Yaklaşımı
+<details markdown="1" id="dokumantasyon_yaklasimi">
+<summary><strong><span class="subtitle">Dokümantasyon Yaklaşımı</span></strong></summary>
 
 - Use Case bakış açısı
 - Gereksinim – test izlenebilirliği
@@ -87,9 +99,12 @@ Tek cümlelik problem özeti.
 
 Doküman değil, yaklaşım anlatılır.
 
+</details>
+
 ---
 
-## Teknik Derinlik
+<details markdown="1" id="teknik_derinlik">
+<summary><strong><span class="subtitle">Teknik Derinlik</span></strong></summary>
 
 ### Ele Alınan Problem
 ...
@@ -100,18 +115,24 @@ Doküman değil, yaklaşım anlatılır.
 ### Gerekçe
 ...
 
+</details>
+
 ---
 
-## Çalışma Prensipleri
+<details markdown="1" id="calisma_prensipleri">
+<summary><strong><span class="subtitle">Çalışma Prensipleri</span></strong></summary>
 
 - Kod kalitesi ve okunabilirlik
 - Test yaklaşımı
 - Takım içi iletişim
 - Sorumluluk alma
 
+</details>
+
 ---
 
-## Bağlantılar
+<details markdown="1" id="baglantilar">
+<summary><strong><span class="subtitle">Bağlantılar</span></strong></summary>
 
 - GitHub
 - LinkedIn
