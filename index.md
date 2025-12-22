@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "İsmail ARICIOĞLU | Portfolio"
+#title: "İsmail ARICIOĞLU | Portfolio"
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
 
