@@ -77,22 +77,28 @@ Algoritmik veya mimari karar içeren çalışma.
 <br>
   
 ### Problem Tanımı
-...
+Bu projede çözülmesi gereken temel problem neydi?
+İş ihtiyacı veya teknik zorluk net şekilde tanımlanır.
 
 ### Kısıtlar & Varsayımlar
-...
+Zaman, performans, ölçek, veri, ekip veya teknik kısıtlar.
+Varsayılan kabul edilen noktalar açıkça belirtilir.
 
 ### Çözüm Yaklaşımı
-...
+Problemin hangi parçalara ayrıldığı ve çözümün nasıl
+kurgulandığı anlatılır. Genel akış burada netleşir.
 
 ### Mimari / Algoritmik Karar
-...
+Alınan kritik teknik karar veya algoritmik yaklaşım.
+Bu kararın **neden** alındığı özellikle vurgulanır.
 
 ### Alternatifler & Trade-off
-...
+Değerlendirilen diğer yaklaşımlar ve neden tercih edilmedikleri.
+Seçilen çözümün avantajları ve bedelleri dürüstçe ele alınır.
 
 ### Sonuç & Öğrenilenler
-...
+Ortaya çıkan çıktı, kazanımlar ve projeden elde edilen
+teknik veya metodolojik dersler.
 
 </details>
 
