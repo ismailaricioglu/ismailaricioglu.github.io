@@ -14,8 +14,7 @@ yapılandıran bir yazılım geliştirici.
 
 <details open markdown="1" id="profesyonel_yaklasim">
 <summary><strong><span class="subtitle">Profesyonel Yaklaşım</span></strong></summary>
-
-
+<br>
 <p>Problemi ele alırken önce kapsamı ve kısıtları netleştiririm. Varsayımları açıkça
 tanımlar, çözülmesi gereken asıl problemi ayıklarım.</p>
 
@@ -31,7 +30,7 @@ değerlendirir, seçilen çözümün sonuçlarını sahiplenirim.</p>
 
 <details markdown="1" id="yetkinlik_alanlari">
 <summary><strong><span class="subtitle">Yetkinlik Alanları</span></strong></summary>
-
+<br>
 ### Backend Sistem Tasarımı
 Sistem bileşenlerini sorumluluklarına göre ayırır, ölçeklenebilir ve sürdürülebilir
 backend yapıları kurgularım.
