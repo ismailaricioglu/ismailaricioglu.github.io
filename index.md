@@ -2,7 +2,7 @@
 layout: default
 description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 ---
-
+<a name="sayfa_basi"></a>
 # İsmail Arıcıoğlu
 
 **Sistem ve Algoritma Odaklı Backend Geliştirici**
@@ -150,3 +150,5 @@ Doküman değil, yaklaşım anlatılır.
 </details>
 
 ---
+
+[Sayfa başına git ↑](#sayfa_basi)
