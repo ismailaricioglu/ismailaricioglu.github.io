@@ -34,16 +34,20 @@ değerlendirir, seçilen çözümün sonuçlarını sahiplenirim.</p>
 <summary><strong><span class="subtitle">Yetkinlik Alanları</span></strong></summary>
 
 ### Backend Sistem Tasarımı
-Kısa açıklama.
+Sistem bileşenlerini sorumluluklarına göre ayırır, ölçeklenebilir ve sürdürülebilir
+backend yapıları kurgularım.
 
 ### Algoritmik Problem Çözme
-Kısa açıklama.
+Problemi parçalara ayırarak algoritmik bir akış oluşturur, çözümü ölçülebilir ve
+gerekçeli hale getiririm.
 
 ### Dokümantasyon & İzlenebilirlik
-Kısa açıklama.
+Gereksinim, tasarım ve test arasındaki ilişkiyi izlenebilir kılan dokümantasyon
+yaklaşımlarını işin parçası olarak görürüm.
 
-### Sistemsel Düşünme
-Kısa açıklama.
+### Sistemsel Düşünme & Karar Alma
+Tekil çözümler yerine sistemin tamamını etkileyen kararları değerlendirir, teknik
+tercihlerin uzun vadeli sonuçlarını gözetirim.
 
 </details>
 
