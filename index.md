@@ -68,6 +68,12 @@ Teknik veya sistemsel açıdan ayırt edici olan problem.
 Algoritmik veya mimari karar içeren çalışma.  
 [Detaylara git ↓](#proje-adi-3)
 
+### Policy-Driven Decision System
+Politika tabanlı karar mekanizmaları üzerine kurgulanmış bir ana sistem.
+Karar alma sürecini uygulama akışından ayırarak, tutarlı, izlenebilir ve
+gerekçeli karar üretimini hedefler. Sistem, System-of-Systems bakış
+açısıyla tasarlanmıştır.
+
 ---
 
 <details markdown="1" id="proje_adi_1">
