@@ -6,8 +6,7 @@ description: "İsmail ARICIOĞLU 'na ait Potfolio Sayfası"
 
 **Sistem ve Algoritma Odaklı Backend Geliştirici**
 
-Problemi tanımlamadan kod yazmayan, çözümü mimari ve algoritmik gerekçelerle
-yapılandıran bir yazılım geliştirici.
+Problemi tanımlamadan kod yazmayan, çözümü mimari ve algoritmik gerekçelerle yapılandıran bir yazılım geliştirici.
 
 ---
 
